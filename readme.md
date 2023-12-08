@@ -26,23 +26,23 @@ Details can be found in our paper: [**GPT-4V with Emotion: A Zero-shot Benchmark
 ## Supervised Models vs. Zero-shot GPT-4V
 
 <div style="text-align:center;">
-  <img src="image/result1.png" style="zoom:67%;" />
+  <img src="image/result1.png"/>
 </div>
 
 <div style="text-align:center;">
-  <img src="image/result2.png" style="zoom:67%;" />
+  <img src="image/result2.png" />
 </div>
 
 <div style="text-align:center;">
-  <img src="image/result3.png" style="zoom:67%;" />
+  <img src="image/result3.png" />
 </div>
 
 <div style="text-align:center;">
-  <img src="image/result4.png" style="zoom:67%;" />
+  <img src="image/result4.png"/>
 </div>
 
 <div style="text-align:center;">
-  <img src="image/result5.png" style="zoom:67%;" />
+  <img src="image/result5.png"/>
 </div>
 
 
