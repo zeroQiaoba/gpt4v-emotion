@@ -21,23 +21,23 @@ Details can be found in our paper: [**GPT-4V with Emotion: A Zero-shot Benchmark
 
 ## Evaluation Tasks
 
-![dataset-1](H:\desktop\Multimedia-Transformer\gp4v-emotion\image\dataset-1.png)
+![dataset-1](image/dataset-1.png)
 
 ## Supervised Models vs. Zero-shot GPT-4V
 
-![result1](H:\desktop\Multimedia-Transformer\gp4v-emotion\image\result1.png)
+<img src="image/result1.png" style="zoom:67%;" />
 
-![result2](H:\desktop\Multimedia-Transformer\gp4v-emotion\image\result2.png)
+<img src="image/result2.png" style="zoom:67%;" />
 
-![result3](H:\desktop\Multimedia-Transformer\gp4v-emotion\image\result3.png)
+<img src="image/result3.png" style="zoom:67%;" />
 
-![result4](H:\desktop\Multimedia-Transformer\gp4v-emotion\image\result4.png)
+<img src="image/result4.png" style="zoom:67%;" />
 
-![result5](H:\desktop\Multimedia-Transformer\gp4v-emotion\image\result5.png)
+<img src="image/result5.png" style="zoom:67%;" />
 
 ## Request for GPT-4V
 
-1. config.py: add your OpenAI key into the **'candidate_keys' **
+1. config.py: add your OpenAI key into the **'candidate_keys'**
 
    Note: We support multiple keys. The model can automatically change the key when it meets the daily request limit.
 
