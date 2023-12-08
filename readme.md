@@ -25,23 +25,34 @@ Details can be found in our paper: [**GPT-4V with Emotion: A Zero-shot Benchmark
 
 ## Supervised Models vs. Zero-shot GPT-4V
 
-<img src="image/result1.png" style="zoom:67%;" />
+<div style="text-align:center;">
+  <img src="image/result1.png" style="zoom:67%;" />
+</div>
 
-<img src="image/result2.png" style="zoom:67%;" />
+<div style="text-align:center;">
+  <img src="image/result2.png" style="zoom:67%;" />
+</div>
 
-<img src="image/result3.png" style="zoom:67%;" />
+<div style="text-align:center;">
+  <img src="image/result3.png" style="zoom:67%;" />
+</div>
 
-<img src="image/result4.png" style="zoom:67%;" />
+<div style="text-align:center;">
+  <img src="image/result4.png" style="zoom:67%;" />
+</div>
 
-<img src="image/result5.png" style="zoom:67%;" />
+<div style="text-align:center;">
+  <img src="image/result5.png" style="zoom:67%;" />
+</div>
+
 
 ## Request for GPT-4V
 
-1. config.py: add your OpenAI key into the **'candidate_keys'**
+1. config.py: add your OpenAI key into the **candidate_keys**
 
    Note: We support multiple keys. The model can automatically change the key when it meets the daily request limit.
 
-2. main.py: change **'dataset'** and **'save_root'** into your own path
+2. main.py: change **dataset** and **save_root** into your own path
 3. dataset preprocess
 
 ```
@@ -62,7 +73,7 @@ Details can be found in our paper: [**GPT-4V with Emotion: A Zero-shot Benchmark
 2. create a 'text' folder to store test text, named as {filename}.npy
 ```
 
-4. run **'python main.py'** for evaluation
+4. run **python main.py** for evaluation
 
    
 
